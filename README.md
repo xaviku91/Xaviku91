@@ -1,9 +1,7 @@
 <h1 align="center">¡Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Wave Hand" /> Mundo!</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=700&center=true&vCenter=true&width=500&lines=Xavi+Quesada+Sevillano;Desarrollador+FullStack" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=3800&pause=900&center=true&vCenter=true&width=500&lines=Xavi+Quesada+Sevillano;Junior+Developer+%7C+FullStack" alt="Typing SVG" /></a>
 </p>
 
 <!-- Sobre mí -->
