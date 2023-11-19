@@ -123,4 +123,4 @@
 
 [Xavi Quesada Sevillano](https://github.com/xaviku91)
 
-Última edición: 19/09/2023
+Última edición: 19/11/2023
